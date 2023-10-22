@@ -1,7 +1,7 @@
 ### Welcome My Profile
--💻 I’m currently working on Node.JS and React
+💻 I’m currently working on Node.JS and React
 
--🌱 I’m currently learning ASP.NET
+🌱 I’m currently learning ASP.NET
 
 <!--
 **zahidedusgun/zahidedusgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
