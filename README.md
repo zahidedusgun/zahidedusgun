@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at this page.
 
-- 📝 I regularly write articles on  [https://medium.com/@zahide.dusgun](https://medium.com/@zahide.dusgun)
-
 - 📫 How to reach me   **zahide.dusgun@gmail.com**
 
 - ⚡ Fun fact **Writing poems 📜**
