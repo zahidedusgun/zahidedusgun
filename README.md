@@ -1,4 +1,21 @@
-<h1 align="center">Hi 👋, I'm Zahide</h1>
+<h1 align="center">
+  <span style="display: inline-block; animation: bounce 2s infinite;">Hi 👋, I'm Zahide</span>
+</h1>
+
+<style>
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-20px);
+    }
+    60% {
+      transform: translateY(-10px);
+    }
+  }
+</style>
+
 <h3 align="center">I am a senior student in computer engineering at Erciyes Universtiy</h3>
 
 - 🌱 I’m currently learning   [.NET](https://github.com/zahidedusgun/YetgenAkbankBootcamp)
