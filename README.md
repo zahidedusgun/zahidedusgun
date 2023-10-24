@@ -8,7 +8,7 @@
 
 - 📫 How to reach me   **zahide.dusgun@gmail.com**
 
-- ⚡ Fun fact **Writing poems 📜**
+- ⚡ I'm interested in **Writing poems 📜** as hobby
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
