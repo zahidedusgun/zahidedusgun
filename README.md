@@ -1,15 +1,5 @@
 <h1 align="center" id="animated-text">Hi 👋, I'm Zahide</h1>
 
-<style>
-  #animated-text {
-    transition: color 1s;
-  }
-
-  #animated-text:hover {
-    color: blue;
-  }
-</style>
-
 <h3 align="center">I am a senior student in computer engineering at Erciyes Universtiy</h3>
 
 - 🌱 I’m currently learning   [.NET](https://github.com/zahidedusgun/YetgenAkbankBootcamp)
