@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Zahide</h1>
 <h3 align="center">I am a senior student in computer engineering at Erciyes Universtiy</h3>
 
-- 🌱 I’m currently learning [.NET](https://github.com/zahidedusgun/YetgenAkbankBootcamp)
+- 🌱 I’m currently learning   [.NET] (https://github.com/zahidedusgun/YetgenAkbankBootcamp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/zahidedusgun](https://github.com/zahidedusgun)
+- 👨‍💻 All of my projects are available at    [https://github.com/zahidedusgun](https://github.com/zahidedusgun)
 
-- 📝 I regularly write articles on [https://medium.com/@zahide.dusgun](https://medium.com/@zahide.dusgun)
+- 📝 I regularly write articles on  [https://medium.com/@zahide.dusgun](https://medium.com/@zahide.dusgun)
 
-- 📫 How to reach me **zahide.dusgun@gmail.com**
+- 📫 How to reach me   **zahide.dusgun@gmail.com**
 
 - ⚡ Fun fact **Writing poems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</p>
 <a href="https://linkedin.com/in/zahide düşgün" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahide düşgün" height="30" width="40" /></a>
+</br>
 <a href="https://medium.com/@zahide.dusgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zahide.dusgun" height="30" width="40" /></a>
 </p>
 
