@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahide</h1>
 <h3 align="center">I am a senior student in computer engineering at Erciyes Universtiy</h3>
 
-- 🌱 I’m currently learning   [.NET] (https://github.com/zahidedusgun/YetgenAkbankBootcamp)
+- 🌱 I’m currently learning   [.NET](https://github.com/zahidedusgun/YetgenAkbankBootcamp)
 
 - 👨‍💻 All of my projects are available at    [https://github.com/zahidedusgun](https://github.com/zahidedusgun)
 
