@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at this page.
 
-- 📫 How to reach me   **zahide.dusgun@gmail.com**
+- 📫 You can reach me via **zahide.dusgun@gmail.com**
 
 - ⚡ I'm interested in **writing poems 📜** as hobby
   
