@@ -9,6 +9,7 @@
 - 📫 You can reach me via **zahide.dusgun@gmail.com**
 
 - ⚡ I'm interested in **writing poems 📜** as hobby
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +27,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidedusgun&show_icons=true&locale=en&layout=compact" alt="zahidedusgun" /></p>
+<body>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zahidedusgun&show_icons=true&locale=en" alt="zahidedusgun" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidedusgun&show_icons=true&locale=en&layout=compact" alt="zahidedusgun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidedusgun&" alt="zahidedusgun" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=zahidedusgun&show_icons=true&locale=en" alt="zahidedusgun" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidedusgun&" alt="zahidedusgun" /></p>
+
+</body>
