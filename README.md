@@ -4,11 +4,12 @@
 
 - 🌱 I’m currently learning   [.NET](https://github.com/zahidedusgun/YetgenAkbankBootcamp)
 
-- 👨‍💻 All of my projects are available at this page.
+- 👩🏻‍💻 I’m working on Node.JS
+
+- 👇🏻 All of my projects are available at this page.
 
 - 📫 You can reach me via **zahide.dusgun@gmail.com**
-- 
-
+  
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zahide-dusgun/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@zahide.dusgun) 
 
