@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning   [.NET](https://github.com/zahidedusgun/YetgenAkbankBootcamp)
 
-- 👩🏻‍💻 I’m working on Node.JS
+- 👩🏻‍💻 I’m currently working on Node.JS
 
 - 👇🏻 All of my projects are available at this page.
 
