@@ -1,6 +1,6 @@
 <h1 align="center" id="animated-text">Hi 👋, I'm Zahide</h1>
 
-<h3 align="center">I am a senior student in Computer Engineering at Erciyes Universtiy</h3>
+<h3 align="center">I am a senior student in Computer Engineering at Erciyes University</h3>
 
 - 🌱 I’m currently learning   [.NET](https://github.com/zahidedusgun/YetgenAkbankBootcamp)
 
