@@ -2,8 +2,6 @@
 
 <h3 align="center">I am a senior student in Computer Engineering at Erciyes University</h3>
 
-- 🌱 I’m currently learning machine learning
-
 - 👩🏻‍💻 I’m currently working on Node.js and React.js
 
 - 👇🏻 All of my projects are available at this page.
