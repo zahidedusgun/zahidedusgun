@@ -1,6 +1,6 @@
 <h1 align="center" id="animated-text">Hi 👋, I'm Zahide</h1>
 
-<h3 align="center">Graduated with a degree in Computer Engineering from Erciyes University, where I am currently pursuing a master's degree.</h3>
+<h3 align="center">Currently pursuing a master’s degree at Erciyes University.</h3>
 
 - 👩🏻‍💻 I’m currently working on Node.js and React.js
 
